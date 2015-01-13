@@ -9,5 +9,6 @@ urlpatterns = [
 	#url(r'^admin/', include(admin.site.urls)),
     url(r'^index/$',Get_param),
     url(r'^solve/$',solve),
-    url(r'^upload/regist/$','upload.views.regist'),
+    url(r'^upload/$','upload.views.upload'),
+    url(r'^download/$','upload.views.download'),
 ]
