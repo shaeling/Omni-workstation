@@ -11,11 +11,11 @@
 		<input type="submit" value="ok" />
 	</form>	
 
-	<select name="">
-    {% for val,name in form.choice_filed.choices %}
-          <option value="{{ val }}">
-    {% endfor %}
-    </select>
+	<select>
+  		{% for x in list %}
+     	 	<option value ="{{ x }}">{{ x }}</option>
+  		{% endfor %}
+	</select>
 
 </div>
 </body>

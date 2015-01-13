@@ -21,4 +21,8 @@ def regist(request):
 			return HttpResponse("ok")
 	else:
 		uf = UserForm()
-	return render_to_response('regist.html',{'uf':uf})
+	fp = open('./upload/file/file.txt','r')
+	name_list = []
+	for line in fp.readlines():
+		name_list.append(line.strip())
+	return render_to_response('regist.html',{'uf':uf,'list':name_list})
