@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http=//www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" conten="text/html: charset=UTF-8" />
+</head>
+<body>
+<div>Log in</div>
+<div>
+	<form method="post" enctype="multipart/form-data">
+		{{uf.as_p}}
+		<input type="submit" value="ok" />
+	</form>	
+
+	<select name="">
+    {% for val,name in form.choice_filed.choices %}
+          <option value="{{ val }}">
+    {% endfor %}
+    </select>
+
+</div>
+</body>
+</html>
