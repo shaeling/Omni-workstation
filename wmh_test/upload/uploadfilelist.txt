@@ -1,0 +1,54 @@
+
+ 《Software Architecture in Practice,2nd Edition--软件构架实践(第2版)》
+
+《Documenting Software Architectures --软件构架编档》
+
+《Applied Software Architecture --实用软件体系结构》
+
+
+
+
+ 1. 《UML Distilled 3rd 》
+
+ 2.《The Elements of UML 2.0 Style 》
+
+ 3.《UML和模式应用(第3版)--Applying UML and Patterns 3rd》 
+
+
+ 
+
+1. 公共领域
+《Domain-Specific Application Frameworks --特定领域应用框架：行业的框架体验》
+
+《Head First Design Patterns》 
+
+    
+
+ 
+
+2. Java EE领域  
+  《Patterns of Enterprise Application Architecture --企业应用架构模式》 
+   
+  《Effective Enterprise Java--中文版》    
+    
+
+  
+
+
+3. EAI/SOA领域 
+《Enterprise Integration Patterns --企业集成模式：设计、构建及部署消息传递解决方案》
+
+    
+
+
+
+4. 网络与后台服务编程领域
+《Pattern-Oriented Software Architecture, Volume 2 --面向模式的软件体系结构 卷2:用于并发和网络化对象的模式》
+
+《Pattern-Oriented Software Architecture, Volume 3 --面向模式的软件体系结构卷3：资源管理模式》
+    
+ 
+四、闲书篇
+《Code Complete 2 --代码大全2》  
+《The Pragmatic Programmer --程序员修炼之道：从小工到专家》  
+《The Art of Unix Programming --UNIX编程艺术》 
